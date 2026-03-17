@@ -11,12 +11,12 @@ TagManager:
   - 
   - Water
   - UI
+  - ground
+  - walkInFront
+  - Collision
   - Player
-  - Floor
-  - Shelf
-  - 
-  - 
-  - 
+  - WalkBehind
+  - Decorate
   - 
   - 
   - 
@@ -40,6 +40,24 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2785279689
+    locked: 0
+  - name: walkInFront
+    uniqueID: 2426989959
+    locked: 0
+  - name: Collision
+    uniqueID: 1209217411
+    locked: 0
+  - name: Player
+    uniqueID: 843806661
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 3914193289
+    locked: 0
+  - name: Decorate
+    uniqueID: 3259445517
     locked: 0
   m_RenderingLayers:
   - Default
