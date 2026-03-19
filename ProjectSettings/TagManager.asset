@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: HiddenInteract
+    uniqueID: 3703751491
+    locked: 0
   - name: ground
     uniqueID: 2785279689
     locked: 0
@@ -58,6 +61,9 @@ TagManager:
     locked: 0
   - name: Decorate
     uniqueID: 3259445517
+    locked: 0
+  - name: Arrow
+    uniqueID: 2984684449
     locked: 0
   m_RenderingLayers:
   - Default
