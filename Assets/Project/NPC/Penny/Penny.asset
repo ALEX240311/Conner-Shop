@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 951ecc364f2b6624d9132fb6a3354d11, type: 3}
-  m_Name: New NPC Dialogue
+  m_Name: Penny
   m_EditorClassIdentifier: 
   npcName: Penny
   npcPortrait: {fileID: -4046497989061198137, guid: 4f70eb1ee57cb034e98aace1aee9d6bb, type: 3}
