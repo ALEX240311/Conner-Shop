@@ -7,6 +7,7 @@ public class InteractCheckout : MonoBehaviour, IInteractable
     [SerializeField] GameObject arrowObject; // Reference to the arrow GameObject
     public void Interact()
     {
+        // chuy?n sang checkOut UI
         Debug.Log("Interacted with checkout" + gameObject.name);
     }
 

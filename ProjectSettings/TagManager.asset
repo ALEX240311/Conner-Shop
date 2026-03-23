@@ -17,7 +17,7 @@ TagManager:
   - Player
   - WalkBehind
   - Decorate
-  - 
+  - PickAbleObject
   - 
   - 
   - 
@@ -52,6 +52,9 @@ TagManager:
     locked: 0
   - name: Collision
     uniqueID: 1209217411
+    locked: 0
+  - name: PickAbleObject
+    uniqueID: 1399235637
     locked: 0
   - name: NPC
     uniqueID: 48224767

@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 222c4d2ec642e6e4e8f06b12c373dd55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5481900731227962584
+    second: PC _ Computer - Stardew Valley - Environment - Forage_0
+  - first:
+      213: 2260766620638347039
+    second: PC _ Computer - Stardew Valley - Environment - Forage_1
+  - first:
+      213: 6723822409217753586
+    second: PC _ Computer - Stardew Valley - Environment - Forage_2
+  - first:
+      213: -797579054058589581
+    second: PC _ Computer - Stardew Valley - Environment - Forage_3
+  - first:
+      213: 5293009250971542669
+    second: PC _ Computer - Stardew Valley - Environment - Forage_4
+  - first:
+      213: -3702783206791662464
+    second: PC _ Computer - Stardew Valley - Environment - Forage_5
+  - first:
+      213: 3342860170582225567
+    second: PC _ Computer - Stardew Valley - Environment - Forage_6
+  - first:
+      213: -5096634642479820280
+    second: PC _ Computer - Stardew Valley - Environment - Forage_7
+  - first:
+      213: -1056915055876175635
+    second: PC _ Computer - Stardew Valley - Environment - Forage_8
+  - first:
+      213: 7524440784797811173
+    second: PC _ Computer - Stardew Valley - Environment - Forage_9
+  - first:
+      213: -3114872489806023906
+    second: PC _ Computer - Stardew Valley - Environment - Forage_10
+  - first:
+      213: 940177240533082280
+    second: PC _ Computer - Stardew Valley - Environment - Forage_11
+  - first:
+      213: -2680773816153483346
+    second: PC _ Computer - Stardew Valley - Environment - Forage_12
+  - first:
+      213: -3252699093273491197
+    second: PC _ Computer - Stardew Valley - Environment - Forage_13
+  - first:
+      213: 8234780095079111441
+    second: PC _ Computer - Stardew Valley - Environment - Forage_14
+  - first:
+      213: -4918564931173436235
+    second: PC _ Computer - Stardew Valley - Environment - Forage_15
+  - first:
+      213: 8190352091934084586
+    second: PC _ Computer - Stardew Valley - Environment - Forage_16
+  - first:
+      213: -6624239894224486937
+    second: PC _ Computer - Stardew Valley - Environment - Forage_17
+  - first:
+      213: -720805873950127642
+    second: PC _ Computer - Stardew Valley - Environment - Forage_18
+  - first:
+      213: 6487373827902900458
+    second: PC _ Computer - Stardew Valley - Environment - Forage_19
+  - first:
+      213: -6245765780565591996
+    second: PC _ Computer - Stardew Valley - Environment - Forage_20
+  - first:
+      213: -1066902921849818335
+    second: PC _ Computer - Stardew Valley - Environment - Forage_21
+  - first:
+      213: -8064749520527047278
+    second: PC _ Computer - Stardew Valley - Environment - Forage_22
+  - first:
+      213: -3722736210325144253
+    second: PC _ Computer - Stardew Valley - Environment - Forage_23
+  - first:
+      213: -3867808735388132266
+    second: PC _ Computer - Stardew Valley - Environment - Forage_24
+  - first:
+      213: -6144474507136331745
+    second: PC _ Computer - Stardew Valley - Environment - Forage_25
+  - first:
+      213: -3915694169083200251
+    second: PC _ Computer - Stardew Valley - Environment - Forage_26
+  - first:
+      213: -2940442323544037261
+    second: PC _ Computer - Stardew Valley - Environment - Forage_27
+  - first:
+      213: 3480084554565954742
+    second: PC _ Computer - Stardew Valley - Environment - Forage_28
+  - first:
+      213: 4921645458664554806
+    second: PC _ Computer - Stardew Valley - Environment - Forage_29
+  - first:
+      213: 8542005826077083172
+    second: PC _ Computer - Stardew Valley - Environment - Forage_30
+  - first:
+      213: 2211618616472094811
+    second: PC _ Computer - Stardew Valley - Environment - Forage_31
+  - first:
+      213: -280923851856524846
+    second: PC _ Computer - Stardew Valley - Environment - Forage_32
+  - first:
+      213: -4819839016762719821
+    second: PC _ Computer - Stardew Valley - Environment - Forage_33
+  - first:
+      213: -349356186126513343
+    second: PC _ Computer - Stardew Valley - Environment - Forage_34
+  - first:
+      213: 2700578872920278489
+    second: PC _ Computer - Stardew Valley - Environment - Forage_35
+  - first:
+      213: -2736569590872982954
+    second: PC _ Computer - Stardew Valley - Environment - Forage_36
+  - first:
+      213: -4615686693533054335
+    second: PC _ Computer - Stardew Valley - Environment - Forage_37
+  - first:
+      213: -7323579874971689974
+    second: PC _ Computer - Stardew Valley - Environment - Forage_38
+  - first:
+      213: -6012551596627275365
+    second: PC _ Computer - Stardew Valley - Environment - Forage_39
+  - first:
+      213: 3577649009859336455
+    second: PC _ Computer - Stardew Valley - Environment - Forage_40
+  - first:
+      213: 9019599820893605019
+    second: PC _ Computer - Stardew Valley - Environment - Forage_41
+  - first:
+      213: 2088783540678758008
+    second: PC _ Computer - Stardew Valley - Environment - Forage_42
+  - first:
+      213: -141328428292865275
+    second: PC _ Computer - Stardew Valley - Environment - Forage_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfbc2bbaf931c40800000000000000
+      internalID: 5481900731227962584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 197
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f753f634bdf5f10800000000000000
+      internalID: 2260766620638347039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14c3a5bd0df4d50800000000000000
+      internalID: 6723822409217753586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 196
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372bb8a731e6ee4f0800000000000000
+      internalID: -797579054058589581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 195
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84e305cedb847940800000000000000
+      internalID: 5293009250971542669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 194
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b6e6aa421d9cc0800000000000000
+      internalID: -3702783206791662464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92fa592d99346e20800000000000000
+      internalID: 3342860170582225567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8025a09bbcd1549b0800000000000000
+      internalID: -5096634642479820280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 168
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80db04b551551f0800000000000000
+      internalID: -1056915055876175635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 167
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c55f070f2c6860800000000000000
+      internalID: 7524440784797811173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 167
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13b97c49ffb5c4d0800000000000000
+      internalID: -3114872489806023906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 169
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a1ef083e2c0d00800000000000000
+      internalID: 940177240533082280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d005ea6afbcad0800000000000000
+      internalID: -2680773816153483346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c23088671cd2d0800000000000000
+      internalID: -3252699093273491197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 137
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd5a2edd0d74270800000000000000
+      internalID: 8234780095079111441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 136
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4b6b8314fbdbbb0800000000000000
+      internalID: -4918564931173436235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 135
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedcb1155d9f9a170800000000000000
+      internalID: 8190352091934084586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed37c5b9e8f114a0800000000000000
+      internalID: -6624239894224486937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9003b60ee2ff5f0800000000000000
+      internalID: -720805873950127642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 106
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae88159ff18c70a50800000000000000
+      internalID: 6487373827902900458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f8133d159259a0800000000000000
+      internalID: -6245765780565591996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 106
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b05df1799131f0800000000000000
+      internalID: -1066902921849818335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295cb7a3a01441090800000000000000
+      internalID: -8064749520527047278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 106
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34df51ff32f265cc0800000000000000
+      internalID: -3722736210325144253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c990c9278c25ac0800000000000000
+      internalID: -3867808735388132266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1012b69df07abaa0800000000000000
+      internalID: -6144474507136331745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3ab246e8a8a9c0800000000000000
+      internalID: -3915694169083200251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37822ae29437137d0800000000000000
+      internalID: -2940442323544037261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc2a3fc67ebb4030800000000000000
+      internalID: 3480084554565954742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318d1af7723d4440800000000000000
+      internalID: 4921645458664554806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42644a49a0d4b8670800000000000000
+      internalID: 8542005826077083172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58c57df96f31be10800000000000000
+      internalID: 2211618616472094811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d94821ce35f91cf0800000000000000
+      internalID: -280923851856524846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b14a4b63fd7c1db0800000000000000
+      internalID: -4819839016762719821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 46
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b08d15666d62bf0800000000000000
+      internalID: -349356186126513343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d586583d226a7520800000000000000
+      internalID: 2700578872920278489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a31e0c470c50ad0800000000000000
+      internalID: -2736569590872982954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a077d3869c1ffb0800000000000000
+      internalID: -4615686693533054335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cdc1cd7ea6d5a90800000000000000
+      internalID: -7323579874971689974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d251cd202f8ca0800000000000000
+      internalID: -6012551596627275365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70991bbb1dc56a130800000000000000
+      internalID: 3577649009859336455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 13
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c4a8ccf3e0c2d70800000000000000
+      internalID: 9019599820893605019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e07da3099dcfc10800000000000000
+      internalID: 2088783540678758008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Forage_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50380f21b86e90ef0800000000000000
+      internalID: -141328428292865275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Environment - Forage_0: 5481900731227962584
+      PC _ Computer - Stardew Valley - Environment - Forage_1: 2260766620638347039
+      PC _ Computer - Stardew Valley - Environment - Forage_10: -3114872489806023906
+      PC _ Computer - Stardew Valley - Environment - Forage_11: 940177240533082280
+      PC _ Computer - Stardew Valley - Environment - Forage_12: -2680773816153483346
+      PC _ Computer - Stardew Valley - Environment - Forage_13: -3252699093273491197
+      PC _ Computer - Stardew Valley - Environment - Forage_14: 8234780095079111441
+      PC _ Computer - Stardew Valley - Environment - Forage_15: -4918564931173436235
+      PC _ Computer - Stardew Valley - Environment - Forage_16: 8190352091934084586
+      PC _ Computer - Stardew Valley - Environment - Forage_17: -6624239894224486937
+      PC _ Computer - Stardew Valley - Environment - Forage_18: -720805873950127642
+      PC _ Computer - Stardew Valley - Environment - Forage_19: 6487373827902900458
+      PC _ Computer - Stardew Valley - Environment - Forage_2: 6723822409217753586
+      PC _ Computer - Stardew Valley - Environment - Forage_20: -6245765780565591996
+      PC _ Computer - Stardew Valley - Environment - Forage_21: -1066902921849818335
+      PC _ Computer - Stardew Valley - Environment - Forage_22: -8064749520527047278
+      PC _ Computer - Stardew Valley - Environment - Forage_23: -3722736210325144253
+      PC _ Computer - Stardew Valley - Environment - Forage_24: -3867808735388132266
+      PC _ Computer - Stardew Valley - Environment - Forage_25: -6144474507136331745
+      PC _ Computer - Stardew Valley - Environment - Forage_26: -3915694169083200251
+      PC _ Computer - Stardew Valley - Environment - Forage_27: -2940442323544037261
+      PC _ Computer - Stardew Valley - Environment - Forage_28: 3480084554565954742
+      PC _ Computer - Stardew Valley - Environment - Forage_29: 4921645458664554806
+      PC _ Computer - Stardew Valley - Environment - Forage_3: -797579054058589581
+      PC _ Computer - Stardew Valley - Environment - Forage_30: 8542005826077083172
+      PC _ Computer - Stardew Valley - Environment - Forage_31: 2211618616472094811
+      PC _ Computer - Stardew Valley - Environment - Forage_32: -280923851856524846
+      PC _ Computer - Stardew Valley - Environment - Forage_33: -4819839016762719821
+      PC _ Computer - Stardew Valley - Environment - Forage_34: -349356186126513343
+      PC _ Computer - Stardew Valley - Environment - Forage_35: 2700578872920278489
+      PC _ Computer - Stardew Valley - Environment - Forage_36: -2736569590872982954
+      PC _ Computer - Stardew Valley - Environment - Forage_37: -4615686693533054335
+      PC _ Computer - Stardew Valley - Environment - Forage_38: -7323579874971689974
+      PC _ Computer - Stardew Valley - Environment - Forage_39: -6012551596627275365
+      PC _ Computer - Stardew Valley - Environment - Forage_4: 5293009250971542669
+      PC _ Computer - Stardew Valley - Environment - Forage_40: 3577649009859336455
+      PC _ Computer - Stardew Valley - Environment - Forage_41: 9019599820893605019
+      PC _ Computer - Stardew Valley - Environment - Forage_42: 2088783540678758008
+      PC _ Computer - Stardew Valley - Environment - Forage_43: -141328428292865275
+      PC _ Computer - Stardew Valley - Environment - Forage_5: -3702783206791662464
+      PC _ Computer - Stardew Valley - Environment - Forage_6: 3342860170582225567
+      PC _ Computer - Stardew Valley - Environment - Forage_7: -5096634642479820280
+      PC _ Computer - Stardew Valley - Environment - Forage_8: -1056915055876175635
+      PC _ Computer - Stardew Valley - Environment - Forage_9: 7524440784797811173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
