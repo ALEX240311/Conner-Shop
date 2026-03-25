@@ -1,14 +1,32 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UIElements;
 
 public class InteractCheckout : MonoBehaviour, IInteractable
 {
     private bool playerInrange = false;
     [SerializeField] GameObject arrowObject; // Reference to the arrow GameObject
+    [SerializeField] private Color highlightColor = Color.yellow; //Highlight object
+    private Color originalColor;
+    private SpriteRenderer spriteRenderer;
+    [SerializeField] private GameObject checkoutCanvas; //UI Setting
+
+    private void Start()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        if (spriteRenderer != null) originalColor = spriteRenderer.color;
+        inactiveArrow();
+        if (checkoutCanvas != null) checkoutCanvas.SetActive(false);
+    }
     public void Interact()
     {
         // chuy?n sang checkOut UI
         Debug.Log("Interacted with checkout" + gameObject.name);
+
+        if (checkoutCanvas != null)
+        {
+            checkoutCanvas.SetActive(true);
+
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -17,6 +35,7 @@ public class InteractCheckout : MonoBehaviour, IInteractable
         {
             playerInrange = true;
             activeArrow();
+            Highlight(true);
         }
     }
 
@@ -26,6 +45,7 @@ public class InteractCheckout : MonoBehaviour, IInteractable
         {
             playerInrange = false;
             inactiveArrow();
+            Highlight(false);
         }
     }
 
@@ -50,6 +70,15 @@ public class InteractCheckout : MonoBehaviour, IInteractable
         if (arrowObject != null)
         {
             arrowObject.SetActive(false); // Hide the arrow when the player is out of range
+        }
+    }
+
+    // Đổi màu vật thể
+    private void Highlight(bool isHighlight)
+    {
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.color = isHighlight ? highlightColor : originalColor;
         }
     }
 }
