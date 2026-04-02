@@ -56,6 +56,9 @@ TagManager:
   - name: PickAbleObject
     uniqueID: 1399235637
     locked: 0
+  - name: Decorate
+    uniqueID: 3259445517
+    locked: 0
   - name: NPC
     uniqueID: 48224767
     locked: 0
@@ -64,9 +67,6 @@ TagManager:
     locked: 0
   - name: WalkBehind
     uniqueID: 3914193289
-    locked: 0
-  - name: Decorate
-    uniqueID: 3259445517
     locked: 0
   - name: Arrow
     uniqueID: 2984684449
